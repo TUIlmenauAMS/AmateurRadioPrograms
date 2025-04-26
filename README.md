@@ -8,5 +8,11 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 
 - solarfluxdisp.py displays the current Observed Flux Density from www.spaceweather.gc.ca
 
-- qth_locator_distance_city.py takes as input the own QTH locator and a received QTH locator, and displays the distance in Kilometer, and the nearest big city larger 100k inhabitants and larger 1M inhabitants, for georgraphic context.
+- qth_locator_distance_city.py takes as input the own QTH locator and a received QTH locator, and displays the distance in Kilometer, and the nearest big city larger 100k inhabitants and larger 1M inhabitants, for georgraphic context. It uses the csv file 'large_cities.csv'.
+
+These programs where made with the help of ChatGPT.
+
+Many greetings,
+  Gerald, DL5BBN
+  
  
