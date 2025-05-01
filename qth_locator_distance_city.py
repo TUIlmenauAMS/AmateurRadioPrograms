@@ -192,4 +192,5 @@ if __name__ == "__main__":
         for popul in {100000, 1000000}:
            #city, city_dist, population = find_nearest_large_city(rx_lat, rx_lon, large_cities_db)
            city, country, city_dist, state, population = find_nearest_large_city(rx_lat, rx_lon, large_cities_list, popul)
-           print(f"Nearest large city > {popul} inhabitants to {received_locator}: {city}, {state}, {country} (approx {city_dist:.1f} km away from center of {received_locator}), population: {population}")
+           #print(f"Nearest large city > {popul} inhabitants to {received_locator}: {city}, {state}, {country} (approx {city_dist:.1f} km away from center of {received_locator}), population: {population}")
+           print(f"Nearest large city > {popul} inhabitants: {city}, {state}, {country} (approx {city_dist:.1f} km away from center of {received_locator}), population: {population}")
