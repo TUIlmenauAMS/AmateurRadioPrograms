@@ -7,6 +7,7 @@ The offline version downloads the needed csv table at first use, such that it th
 With internet access and a browser, for more detailed call lookup, see also: https://hamcall.net/call
 
 - hamRadioPrefix_Form.ipynb is the Colab notebook version of hamRadioPrefix.py. Click on the "open in Colab" button in it.
+- <a href=\"https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/hamRadioPrefix_Form.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 - solarfluxdisp.py displays the current Observed Flux Density from www.spaceweather.gc.ca
 
