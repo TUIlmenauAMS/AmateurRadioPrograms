@@ -136,9 +136,12 @@
     <div class="hint">
       Tips:
       <ul>
+        <li> "Noise" is for testing, set it to 0 for microphone input denoising (set in "Source").
+        <li> Let it adapt to the (speech) signal for a few seconds, then set "Freeze adaptation" to "on".
         <li>Speech/music: try <b>D ≈ 32–128</b>, <b>M ≈ 16–64</b>, <b>μ ≈ 0.01–0.1</b>.</li>
         <li>If it “warbles” or distorts, lower μ or M.</li>
         <li>If it does nothing, increase M a bit or adjust D.</li>
+        <li> Play with the settings to get the best result.
       </ul>
       The ALE idea: delay decorrelates white noise but keeps signal correlation, so the predictor locks onto the signal.
     </div>
@@ -164,7 +167,7 @@
     <div class="hint">
       Local server quickstart:
       <pre style="white-space:pre-wrap;background:#0b1220;border:1px solid #1f2a37;border-radius:12px;padding:10px;margin:8px 0;">
-# in the folder with index.html
+# in the folder with predictiveDenoiser.html
 python3 -m http.server 8000
 # then open:
 http://localhost:8000
