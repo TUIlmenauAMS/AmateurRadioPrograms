@@ -12,6 +12,9 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 - solarfluxdisp.py displays the current Observed Flux Density from www.spaceweather.gc.ca
 
 - qth_locator_distance_city.py takes as input the own QTH locator and a received QTH locator, and displays the distance in Kilometer, and the nearest big city larger 100k inhabitants and larger 1M inhabitants, for georgraphic context. It uses the csv file 'large_cities.csv'.
+- You can also run it in this browser app, which runs purely in your browser, hence also offline after opening it:
+[qth_locator_distance_city.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/qth_locator_distance_city.html)
+
 - solarflux_qth_distance_city.ipynb is a Colab notebook which runs the previous 2 programs in a Colab virtual machine. This might be useful if there is no local Python installation, like on a smartphone. To run it, you can click on this button: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/solarflux_qth_distance_city.ipynb)
 
