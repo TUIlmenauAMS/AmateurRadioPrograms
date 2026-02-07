@@ -18,10 +18,10 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 - solarflux_qth_distance_city.ipynb is a Colab notebook which runs the previous 2 programs in a Colab virtual machine. This might be useful if there is no local Python installation, like on a smartphone. To run it, you can click on this button: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/solarflux_qth_distance_city.ipynb)
 
--The predictiveDenoiser.html is an alternative to many build in Noise Reduction functions. It reduces the attenuation of high frequencies, which is a noticeable disadvantage of many radios build noise reduction.  First, allow a few seconds for adaptation to the (speech) signal, at approx. mu=0.05, then switch to freeze adaptation to get the imporved audio. Repeat if necessary. Experiment with the different settings. You can download the predictiveDenoiser.html file and serve it locally with 'python3 -m http.server 8080', and then open your browser with 'localhost:8080', or just click on this link to serve it in github.io:
+- The predictiveDenoiser.html is an alternative to many build in Noise Reduction functions. It reduces the attenuation of high frequencies, which is a noticeable disadvantage of many radios build noise reduction.  First, allow a few seconds for adaptation to the (speech) signal, at approx. mu=0.05, then switch to freeze adaptation to get the imporved audio. Repeat if necessary. Experiment with the different settings. You can download the predictiveDenoiser.html file and serve it locally with 'python3 -m http.server 8080', and then open your browser with 'localhost:8080', or just click on this link to serve it in github.io:
 [predictiveDenoiser.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/predictiveDenoiser.html)
 
-These programs where made with the help of ChatGPT and then refined.
+These Python programs where made with the help of ChatGPT and then refined. The Browser apps where made with Grok.com.
 
 Many greetings,
   Gerald, DL5BBN
