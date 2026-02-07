@@ -23,7 +23,7 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 
 These Python programs where made with the help of ChatGPT and then refined. The Browser apps where made with Grok.com.
 
-Many greetings,
+Many greetings,73,
   Gerald, DL5BBN
   
  
