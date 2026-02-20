@@ -21,7 +21,9 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 - The predictiveDenoiser.html is an alternative to many build in Noise Reduction functions. It reduces the attenuation of high frequencies, which is a noticeable disadvantage of many radios build noise reduction.  First, allow a few seconds for adaptation to the (speech) signal, at approx. mu=0.05, then switch to freeze adaptation to get the imporved audio. Repeat if necessary. Experiment with the different settings. You can download the predictiveDenoiser.html file and serve it locally with 'python3 -m http.server 8080', and then open your browser with 'localhost:8080', or just click on this link to serve it in github.io:
 [predictiveDenoiser.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/predictiveDenoiser.html)
 
-These Python programs where made with the help of ChatGPT and then refined. The Browser apps where made with Grok.com.
+speech_to_text_offline.py is a program for local online speech recognition. It could be used to control programs, like WSJT-X, or used as a very low bit-rate speech coder, where the recognized text is transmitted using a digimode like PSK31 or JT8Call.
+
+These Python programs where made with the help of ChatGPT and then refined. The Browser apps and the speech_to_text_offline.py Python program where made with Grok.com.
 
 Many greetings,73,
   Gerald, DL5BBN
