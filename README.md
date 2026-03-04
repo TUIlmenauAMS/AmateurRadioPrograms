@@ -1,5 +1,5 @@
 # AmateurRadioPrograms
-These are helper programs for amateur radio, for the terminal shell.
+These are helper programs for amateur radio, for the terminal shell, and as browser apps. The aim is also to excite you to do your onw experiments using AI as a tool to generate software. For best practice and as a workflow, the the document ["AI-Assisted Workflow for Writing Software.pdf"]("AI-Assisted Workflow for Writing Software.pdf").
 
 
 - hamRadioPrefix.py and hamRadioPrefix_offline.py take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
