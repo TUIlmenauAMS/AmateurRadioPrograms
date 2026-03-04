@@ -1,5 +1,5 @@
 # AmateurRadioPrograms
-These are helper programs for amateur radio, for the terminal shell, and as browser apps. The aim is also to excite you to do your onw experiments using AI as a tool to generate software. For best practice and as a workflow, the the document ["AI-Assisted Workflow for Writing Software.pdf"](https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/AI-Assisted%20Workflow%20for%20Writing%20Software.pdf).
+These are helper programs for amateur radio, for the terminal shell, and as browser apps. The aim is also to excite you to do your onw experiments using AI as a tool to generate software. For best practice and as a workflow, the the document ["AI-Assisted Workflow for Writing Software.pdf"](https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/AI-Assisted%20Workflow%20for%20Writing%20Software.pdf). Basically it is like Test Driven Development (TDD).
 This also addresses the technical experimental character of amateur radio :-).
 
 
