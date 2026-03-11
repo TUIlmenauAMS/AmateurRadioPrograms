@@ -2,6 +2,8 @@
 These are helper programs for amateur radio, for the terminal shell, and as browser apps. The aim is also to excite you to do your own experiments using AI as a tool to generate software, since this is the software development tool of the future, for instance with Cursor, Interpreter, or Codex. For this reason I also added information (like the used AI) to make it more or less reproducible, and as references. For this reason I also included the used (initial) prompt in the beginning of the programs as comments. For best practice and as a workflow, see also the document ["AI-Assisted Workflow for Writing Software.pdf"](https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/AI-Assisted%20Workflow%20for%20Writing%20Software.pdf). Basically it is like Test Driven Development (TDD).
 This also addresses the technical experimental character of amateur radio :-).
 
+Here is an interesting publication on ["Protecting Your Code: Copyright and Other Best Practices"](https://www.bakerdonelson.com/think-while-you-are-using-ai-coding).
+
 
 - hamRadioPrefix.py and hamRadioPrefix_offline.py take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
 The offline version downloads the needed csv table at first use, such that it then can be used for mobile operation without internet access.
