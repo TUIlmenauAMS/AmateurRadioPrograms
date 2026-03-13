@@ -6,7 +6,7 @@ Here is an interesting publication on ["Protecting Your Code: Copyright and Othe
 
 I found this Google paper about power consumption of LLM's interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
-It says “..median Gemini Apps text prompt uses less energy than .. 0.24 Wh.” With a MacBook with a power consumption of approx. 5W, this equates to approx. 3 minutes of runtime. This is roughly comparable to a compiler run.
+It says “..median Gemini Apps text prompt uses less energy than .. 0.24 Wh.” With a MacBook with a power consumption of approx. 5W, this equates to approx. 3 minutes of runtime. This is roughly comparable to a compiler run. Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
 
 - hamRadioPrefix.py and hamRadioPrefix_offline.py take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
