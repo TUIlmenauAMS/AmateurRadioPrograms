@@ -24,7 +24,7 @@ It says “..median Gemini Apps text prompt uses less energy than .. 0.24 Wh.”
 
 Here are the programs,
 
-- 'hamRadioPrefix.py' and hamRadioPrefix_offline.py take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
+- hamRadioPrefix.py and hamRadioPrefix_offline.py take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
 The offline version downloads the needed csv table at first use, such that it then can be used for mobile operation without internet access.
 With internet access and a browser, for more detailed call lookup, see also: https://hamcall.net/call
 
