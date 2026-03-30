@@ -12,7 +12,11 @@ Good references for AI Coding Tools are also:
 
 This also addresses the technical experimental character of amateur radio :-).
 
-Here is an interesting publication on the copyrights issue: ["Protecting Your Code: Copyright and Other Best Practices"](https://www.bakerdonelson.com/think-while-you-are-using-ai-coding).
+Here are interesting publications on the copyrights issue: 
+
+["Protecting Your Code: Copyright and Other Best Practices"](https://www.bakerdonelson.com/think-while-you-are-using-ai-coding)
+
+[“LiCoEval: Evaluating LLMs on License Compliance in Code Generation”](https://arxiv.org/html/2406.10952)
 
 I found this Google paper about power consumption of LLM's interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
