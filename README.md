@@ -21,7 +21,7 @@ Here are interesting publications on the copyrights issue:
 
 [“LiCoEval: Evaluating LLMs on License Compliance in Code Generation”](https://arxiv.org/html/2406.10952)
 
-This last paper looks interesting, because it haas a quantification, and a section on best practices for open-source communities (which now mostly use AI as well). I don’t think a 1% license compliance risk is that high. I guess that percentage is higher for hand-generated code, because people often resort to copy/paste from Stack Exchange or similar sources. In general, the most important factor for quality is thorough testing. What matters is that a program passes tests, not how it was made. I often find AI-generated code much more readable than typical hand-written code, which is also good for testing.
+This last paper looks interesting, because it has a quantification, and a section on best practices for open-source communities (which now mostly use AI as well). I don’t think a 1% license compliance risk is that high. I guess that percentage is higher for hand-generated code, because people often resort to copy/paste from Stack Exchange or similar sources. In general, the most important factor for quality is thorough testing. What matters is that a program passes tests, not how it was made. I often find AI-generated code much more readable than typical hand-written code, which is also good for testing.
 
 I found this Google paper about power consumption of LLM's interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
