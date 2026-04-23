@@ -31,6 +31,8 @@ Is open source as AI training fair use?:
 
 The courts ruled “Anthropic and Meta decisions both suggest fair use…should factor into market harm analysis”. This confirms the current interpretation of fair use, but introduces "marked harm", meaning the marked of the original rights holders should not be harmed by it.
 
+I myself am writing open source programs since many years. Its basic rule is "use it and contribute to it in return". I would be very happy if my code is used for training Large Language Models. Their new possibilities are a tremendous return for me!
+
 
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
