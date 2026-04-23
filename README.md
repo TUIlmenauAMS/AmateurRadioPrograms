@@ -25,6 +25,13 @@ Here are interesting publications on the **copyrights issue**:
 
 This last paper looks interesting, because it has a quantification, and a section on best practices for open-source communities (which now mostly use AI as well). I don’t think a 1% license compliance risk is that high. I guess that percentage is higher for hand-generated code, because people often resort to copy/paste from Stack Exchange or similar sources. In general, the most important factor for quality is thorough testing. What matters is that a program passes tests, not how it was made. I often find AI-generated code much more readable than typical hand-written code, which is also good for testing.
 
+Is open source as AI training fair use?:
+
+["A New Look at Fair Use: Anthropic, Meta, and Copyright in AI Training"](https://www.reedsmith.com/articles/a-new-look-fair-use-anthropic-meta-copyright-ai-training/):
+
+The courts ruled “Anthropic and Meta decisions both suggest fair use…should factor into market harm analysis”. This confirms the current interpretation of fair use, but introduces "marked harm", meaning the marked of the original rights holders should not be harmed by it.
+
+
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
 It says “..median Gemini Apps text prompt uses less energy than .. 0.24 Wh.” With a MacBook with a power consumption of approx. 5W, this equates to approx. 3 minutes of runtime. This is roughly comparable to a compiler run. 
