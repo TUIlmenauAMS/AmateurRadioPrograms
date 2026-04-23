@@ -1,4 +1,4 @@
-# Amateur Radio Programs
+#AI for Amateur Radio Programs
 
 AI in amateur radio has the advantage that programs can be made in a fraction of the time previously necessary, and that new software projects are possible with it, for instance in a new programming language. There are also some pitfalls, which can be avoided using the approaches described below.
 
