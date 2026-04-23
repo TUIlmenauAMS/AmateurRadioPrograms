@@ -39,7 +39,7 @@ Fun fact: Compare this with a human answering: A human has an average power cons
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
-Here are the programs,
+**Here are the programs,**
 
 - `hamRadioPrefix.py` and `hamRadioPrefix_offline.py` take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
 The offline version downloads the needed csv table at first use, such that it then can be used for mobile operation without internet access.
