@@ -67,7 +67,7 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 
 - `speech_to_text_offline.py` is a program for local realtime speech recognition without an internet connection. It could be used to control programs, like WSJT-X, in portable operation, or used as a very low bit-rate speech coder, where the recognized text is transmitted using a digimode like PSK31 or JT8Call.
 
-These Python programs where made with the help of ChatGPT and then refined. The Browser apps and the speech_to_text_offline.py Python program where made with Grok.com.
+These Python programs where made with the help of ChatGPT and then refined. The Browser apps and the speech_to_text_offline.py Python program where made with the help of Grok.com.
 
 Many greetings,73,
 
