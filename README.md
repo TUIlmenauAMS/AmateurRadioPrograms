@@ -11,6 +11,8 @@ This repository features helper programs for amateur radio, as Python programs f
 
 Large Language Models, as Natural Language Processing (NLP), can also be used as “Natural Language Programming”, like an "Utra High Level Programming Language", which generates, for instance, Python code. The Python interpreter can generate C code. The C compiler generates assembler code, and the assembler generates machine code. When setting their “temperature” parameter of the LLM to zero, as the AI programming tools seem to do by default, their output becomes deterministic, like a compiler. And like with any other programming language, the main work is usually debugging. A major advantage of NLP is that it gives new ideas.
 
+In the same way can program compilers and interpreters (like for C and Python) be seen as language processing, just a very strictly formal language, which became more and mor complex as they are developed from early languages like Basic, to increasing sphisticated ones like Pascal, C, and Python as a Very High Level Language. It is only a logical step to the next level, the "Ultra High Level Language" as natural language processing. 
+
 
 Good references for **AI Coding Tools** are also:
 
