@@ -55,7 +55,7 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 - `hamRadioPrefix_Form.ipynb` is the Colab notebook version of hamRadioPrefix.py. Click on the "open in Colab" button in it, or here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/hamRadioPrefix_Form.ipynb)
 
-- `solarfluxdisp.py displays the current Observed Flux Density from www.spaceweather.gc.ca
+- `solarfluxdisp.py` displays the current Observed Flux Density from www.spaceweather.gc.ca
 
 - `qth_locator_distance_city.py` takes as input the own QTH locator and a received QTH locator, and displays the distance in Kilometer, and the nearest big city larger 100k inhabitants and larger 1M inhabitants, for georgraphic context. It uses the csv file 'large_cities.csv'.
 - You can also run it in this browser app, which runs purely in your browser, hence also offline after opening it:
