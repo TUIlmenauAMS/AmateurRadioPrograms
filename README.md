@@ -46,7 +46,6 @@ Fun fact: Compare this with a human answering: A human has an average power cons
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
-**Here are the programs,**
 # The Amateur Radio Programs
 
 This repository contains a collection of helper programs for amateur radio, primarily executed in the terminal. It includes tools for call sign prefix lookup, solar flux display, calculation of distances between QTH locators, noise reduction in audio signals, and offline speech-to-text recognition. Many tools support offline operation and can also be used in browsers as a browser app, or via Google Colab.
@@ -70,19 +69,44 @@ With internet access and a browser, for more detailed call lookup, see also: htt
 - `hamRadioPrefix_Form.ipynb` is the Colab notebook version of hamRadioPrefix.py. Click on the "open in Colab" button in it, or here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/hamRadioPrefix_Form.ipynb)
 
-- `solarfluxdisp.py` displays the current Observed Flux Density from www.spaceweather.gc.ca
+## QTH Locator Distance Calculation
 
-- `qth_locator_distance_city.py` takes as input the own QTH locator and a received QTH locator, and displays the distance in Kilometer, and the nearest big city larger 100k inhabitants and larger 1M inhabitants, for georgraphic context. It uses the csv file `large_cities.csv`.
-- You can also run it in this browser app, which runs purely in your browser, hence also offline after opening it:
+The script `qth_locator_distance_city.py` calculates the distance between two Maidenhead QTH locators and finds the nearest large cities (from `large_cities.csv`) larger 100k inhabitants and larger 1M inhabitants, for georgraphic context.
+
+Execution:
+
+```bash
+python qth_locator_distance_city.py
+```
+
+A browser-based version `qth_locator_distance_city.html` runs offline in the browser. You can run it directly by clicking on the following link, and after that it can be sued offline:
+
 [qth_locator_distance_city.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/qth_locator_distance_city.html)
 
-- `solarflux_qth_distance_city.ipynb` is a Colab notebook which runs the previous 2 programs in a Colab virtual machine. This might be useful if there is no local Python installation, like on a smartphone. To run it, you can click on this button: <br>
+## Solar Flux Display
+
+`solarfluxdisp.py` fetches and displays the current Observed Flux Density from www.spaceweather.gc.ca to assess ionospheric conditions.
+
+Execution:
+
+```bash
+python solarfluxdisp.py
+```
+
+A combined Notebook version `solarflux_qth_distance_city.ipynb` integrates this with the distance calculation.
+You can open it as a Colab notebook which runs the previous 2 programs in a Colab virtual machine. This might be useful if there is no local Python installation, like on a smartphone. To run it, you can click on this button: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AmateurRadioPrograms/blob/main/solarflux_qth_distance_city.ipynb)
 
-- The `predictiveDenoiser.html` is an alternative to many build in Noise Reduction functions. It reduces the attenuation of high frequencies, which is a noticeable disadvantage of many radios build noise reduction.  First, allow a few seconds for adaptation to the (speech) signal, at approx. mu=0.05, then switch to freeze adaptation to get the imporved audio. Repeat if necessary. Experiment with the different settings. You can download the predictiveDenoiser.html file and serve it locally with 'python3 -m http.server 8080', and then open your browser with 'localhost:8080', or just click on this link to serve it in github.io:
+- The `predictiveDenoiser.html` is an alternative to many build in Noise Reduction functions. It reduces the attenuation of high frequencies, which is a noticeable disadvantage of many radios build noise reduction.  First, allow a few seconds for adaptation to the (speech) signal, at approx. mu=0.05, then switch to freeze adaptation to get the imporved audio. Repeat if necessary. Experiment with the different settings. You can download the predictiveDenoiser.html file and serve it locally with `python3 -m http.server 8080`, and then open your browser with `localhost:8080`, or just click on the following link to serve it in github.io:
 [predictiveDenoiser.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/predictiveDenoiser.html)
 
 - `speech_to_text_offline.py` is a program for local realtime speech recognition without an internet connection. It could be used to control programs, like WSJT-X, in portable operation, or used as a very low bit-rate speech coder, where the recognized text is transmitted using a digimode like PSK31 or JT8Call. It needs a download of Vosk language models, as described in the Python file.
+
+Execution:
+
+```bash
+python speech_to_text_offline.py
+```
 
 These Python programs where made with the help of ChatGPT and then refined. The Browser apps and the speech_to_text_offline.py Python program where made with the help of Grok.com.
 
