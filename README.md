@@ -47,9 +47,24 @@ Fun fact: Compare this with a human answering: A human has an average power cons
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
 **Here are the programs,**
+# The Amateur Radio Programs
 
-- `hamRadioPrefix.py` and `hamRadioPrefix_offline.py` take as input the prefix of an amateur radio call sign and displays country information for it, like country name,	continent,	itu and	cq zones, in the terminal shell.
-The offline version downloads the needed csv table at first use, such that it then can be used for mobile operation without internet access.
+This repository contains a collection of helper programs for amateur radio, primarily executed in the terminal. It includes tools for call sign prefix lookup, solar flux display, calculation of distances between QTH locators, noise reduction in audio signals, and offline speech-to-text recognition. Many tools support offline operation and can also be used in browsers as a browser app, or via Google Colab.
+
+## Call Sign Prefix Lookup
+
+The script `hamRadioPrefix.py` takes a call sign prefix as input and outputs information such as country, continent, ITU zone, and CQ zone. It requires internet access.
+
+Execution in the terminal:
+
+```bash
+python hamRadioPrefix.py
+```
+
+An offline version `hamRadioPrefix_offline.py` downloads a CSV table on the first run and works without internet thereafter.
+
+There is also a Jupyter Notebook version `hamRadioPrefix_Form.ipynb` for Google Colab.
+
 With internet access and a browser, for more detailed call lookup, see also: https://hamcall.net/call
 
 - `hamRadioPrefix_Form.ipynb` is the Colab notebook version of hamRadioPrefix.py. Click on the "open in Colab" button in it, or here:
