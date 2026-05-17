@@ -28,13 +28,13 @@ Here are interesting publications on the **copyrights issue**:
 
 [“LiCoEval: Evaluating LLMs on License Compliance in Code Generation”](https://arxiv.org/html/2406.10952)
 
-This last paper looks interesting, because it has a quantification, and a section on best practices for open-source communities (which now mostly use AI as well). I don’t think a 1% license compliance risk is that high. I guess that percentage is higher for hand-generated code, because people often resort to copy/paste from Stack Exchange or similar sources. In general, the most important factor for quality is thorough testing. What matters is that a program passes tests, not how it was made. I often find AI-generated code much more readable than typical hand-written code, which is also good for testing.
+This last paper looks interesting, because it has a quantification, and a section on best practices for open-source communities (which now mostly use AI as well). I don’t think a 1% license compliance risk is that high. This also shows that LLM's are not just search engines, but really create something new. I guess that percentage is higher for hand-generated code, because people often resort to copy/paste from Stack Exchange or similar sources. In general, the most important factor for quality is thorough testing. What matters is that a program passes tests, not how it was made. I often find AI-generated code much more readable than typical hand-written code, which is also good for testing.
 
 Is open source as AI training fair use?:
 
 ["A New Look at Fair Use: Anthropic, Meta, and Copyright in AI Training"](https://www.reedsmith.com/articles/a-new-look-fair-use-anthropic-meta-copyright-ai-training/):
 
-The courts ruled “Anthropic and Meta decisions both suggest fair use…should factor into market harm analysis”. This confirms the current interpretation of fair use, but introduces "marked harm", meaning the marked of the original rights holders should not be harmed by it.
+The courts ruled “Anthropic and Meta decisions both suggest fair use…should factor into market harm analysis”. This confirms the current interpretation of fair use, but introduces "market harm", meaning the market of the original rights holders should not be harmed by it.
 
 I myself am writing open source programs since many years. Its basic rule is "use it and contribute to it in return". I would be very happy if my code is used for training Large Language Models. Their new possibilities are a tremendous return for me!
 
