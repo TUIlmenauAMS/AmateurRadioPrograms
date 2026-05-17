@@ -79,7 +79,7 @@ Execution:
 python qth_locator_distance_city.py
 ```
 
-A browser-based version `qth_locator_distance_city.html` runs offline in the browser. You can run it directly by clicking on the following link, and after that it can be sued offline:
+A browser-based version `qth_locator_distance_city.html` runs offline in the browser. You can run it directly by clicking on the following link, and after that it can be used offline:
 
 [qth_locator_distance_city.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/qth_locator_distance_city.html)
 
