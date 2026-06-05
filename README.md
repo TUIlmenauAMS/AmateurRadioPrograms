@@ -46,6 +46,8 @@ Fun fact: Compare this with a human answering: A human has an average power cons
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
+After all this, also keep in mind that the field is still in its infancy and is developing quickly, hence it is worthwile to closely observe the current developments.
+
 # The Amateur Radio Programs
 
 This repository contains a collection of helper programs for amateur radio, primarily executed in the terminal. It includes tools for call sign prefix lookup, solar flux display, calculation of distances between QTH locators, noise reduction in audio signals, and offline speech-to-text recognition. Many tools support offline operation and can also be used in browsers as a browser app, or via Google Colab.
