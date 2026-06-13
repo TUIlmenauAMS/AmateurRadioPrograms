@@ -42,6 +42,11 @@ I myself am writing open source programs since many years. Its basic rule is "us
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
 It says “..median Gemini Apps text prompt uses less energy than .. 0.24 Wh.” With a MacBook with a power consumption of approx. 5W, this equates to approx. 3 minutes of runtime. This is roughly comparable to a compiler run. 
+
+You can also use our ["Climate Change Assitant"](https://chatgpt.com/g/g-6829ff3e69cc81918c917c75c6925b35-climate-change-assistant) chatbot for broader information, or for comparison, [grok.com](grok.com), and ask:
+"What is the average energy consumption for an average prompt for an LLM?". 
+Our chatbot gives interesting and focussed answers, but without references. The answer from Grok seems to be more technically detailed, and also includes reference links.
+
 Fun fact: Compare this with a human answering: A human has an average power consumption of about 80W (https://en.wikipedia.org/wiki/Human_power). This means that 0.24Wh corresponds to about 0.18s of work. Hence, if a human needs more than this fraction of a second to answer, the LLM is more energy efficient.
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
