@@ -7,6 +7,7 @@ AI in amateur radio has the advantage that programs can be made in a fraction of
 
 Media is trying to please its expected audience or information bubble, or provoke to get attention, which does not necessarily align with the audience's interests. The same is true for AI, it tries to please its user, which is not necessarily in its interest. Hence critical thinking is required, and for the latter, AI literacy on how to use AI collaboratively, as a “Copilot”. Hence, a good knowledge of the programming language generated is still helpful.
 
+##AI Coding Tools
 This repository features helper programs for amateur radio, as Python programs for the terminal shell, and as browser apps. The aim is also to excite you to do your own experiments using AI as a tool to generate software, for your own experience and informed oppinion, since this is the software development tool of the future, for instance with Cursor, Interpreter, or Codex. For this reason I also added information (like the used AI) to make it more or less reproducible, and as references. For this reason I also included the used (initial) prompt in the beginning of the programs as comments. For best practice and as a workflow, see also the document ["AI-Assisted Workflow for Writing Software.pdf"](https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/AI-Assisted%20Workflow%20for%20Writing%20Software.pdf). Basically it is like Test Driven Development (TDD).
 
 Large Language Models, as Natural Language Processing (NLP), can also be used as “Natural Language Programming”, like an "Utra High Level Programming Language", which generates, for instance, Python code. The Python interpreter can generate C code. The C compiler generates assembler code, and the assembler generates machine code. When setting their “temperature” parameter of the LLM to zero, as the AI programming tools seem to do by default, their output becomes deterministic, like a compiler. And like with any other programming language, the main work is usually debugging. A major advantage of NLP is that it gives new ideas.
@@ -21,6 +22,8 @@ Good references for **AI Coding Tools** are also:
 [DFKI: Generative_AI_in_Software_Engineering_Transforming_the_Software_Development_Process_2025](https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/News/2025/Wissenschaftliche_Exzellenz/Generative_AI_in_Software_Engineering_Transforming_the_Software_Development_Process_2025.pdf) 
 
 This also addresses the technical experimental character of amateur radio :-).
+
+##Copyright Issue
 
 Here are interesting publications on the **copyrights issue**: 
 
@@ -38,6 +41,7 @@ The courts ruled “Anthropic and Meta decisions both suggest fair use…should 
 
 I myself am writing open source programs since many years. Its basic rule is "use it and contribute to it in return". I would be very happy if my code is used for training Large Language Models. Their new possibilities are a tremendous return for me!
 
+## Power Consumption and Climate Impact of LLM's
 
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
@@ -50,6 +54,8 @@ Our chatbot gives interesting and focussed answers, but without references. The 
 Fun fact: Compare this with a human answering: A human has an average power consumption of about 80W (https://en.wikipedia.org/wiki/Human_power). This means that 0.24Wh corresponds to about 0.18s of work. Hence, if a human needs more than this fraction of a second to answer, the LLM is more energy efficient.
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
+
+## Development
 
 After all this, also keep in mind that the field is still in its infancy and is developing quickly, hence it is worthwile to closely observe the current developments. Try different models and see which works best for an application and at the current time. It can be assumed that AI follows the S-Curve of technology adoption, like micro-processors, the internet, or lately electric vehicles (see ["EV Adoption S-Curves"](https://youtu.be/bTbIrF4YOCY)).
 
