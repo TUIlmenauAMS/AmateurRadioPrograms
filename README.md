@@ -56,7 +56,7 @@ Fun fact: Compare this with a human answering: A human has an average power cons
 
 Also keep in mind, if this power comes from non-fossile, renewable sources (like a green electricity plan), it agress with climate protection in any case. I think AI can also be used to increase efficiencies to reduce the use of fossile fuels, and hence can help the goal of climate protection.
 
-The goal of many countries in the world is to have 100% electricity from renewable sources, between 2035 and 2040 (link: [https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/](https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/) ). Hence anything that runs on electricity instead of fossil fuels can be seen as "2040 ready".
+The goal of many countries in the world is to have 100% electricity from renewable sources, between 2035 and 2040 (link: [https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/](https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/) ). Hence anything that runs on electricity instead of fossil fuels can be seen as "2040 ready". 
 
 ## Development
 
