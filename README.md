@@ -44,6 +44,8 @@ I myself am writing open source programs since many years. Its basic rule is "us
 
 ## Power Consumption and Climate Impact of LLM's
 
+[![picture](LLM_EnergyConsumption_comp.png)](LLM_EnergyConsumption_comp.png)
+
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
 It says “..median Gemini Apps text prompt uses less energy than .. **0.24 Wh**.” With a MacBook with a power consumption of approx. 5W, this equates to approx. 3 minutes of runtime. This is roughly comparable to a compiler run. 
