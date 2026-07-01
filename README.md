@@ -44,7 +44,7 @@ I myself am writing open source programs since many years. Its basic rule is "us
 
 ## Power Consumption and Climate Impact of LLM's
 
-[![picture](LLM_EnergyConsumption_comp.png)](LLM_EnergyConsumption_comp.png)
+[![picture](LLM_EnergyConsumption_comp.png)](https://github.com/TUIlmenauAMS/AmateurRadioPrograms/blob/main/LLM_EnergyConsumption_comp.png?raw=true)
 
 I found this Google paper about **power consumption of LLM's** interesting:
 ["Measuring the environmental impact of delivering AI at Google Scale"](https://arxiv.org/abs/2508.15734v1). 
