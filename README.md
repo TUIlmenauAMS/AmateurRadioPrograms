@@ -7,7 +7,7 @@ AI in amateur radio has the advantage that programs can be made in a fraction of
 
 Media is trying to please its expected audience or information bubble, or provoke to get attention, which does not necessarily align with the audience's interests. The same is true for AI, it tries to please its user, which is not necessarily in its interest. Hence critical thinking is required, and for the latter, AI literacy on how to use AI collaboratively, as a “Copilot”. Hence, a good knowledge of the programming language generated is still helpful.
 
-I like to experiment and find out what works and what not, to find out new things. Hence I am very positive about AI. There is so much new to try out, and experimenting is also good for finding out how to use it and where the limits are.
+I like to experiment and find out what works and what not, to find out new things. Hence I am very positive about AI. There is so much new to try out, and experimenting is also good for finding out how to use it and where the limits are. I enjoy solving problems, instead of just avoiding them.
 
 
 ## AI Coding Tools
