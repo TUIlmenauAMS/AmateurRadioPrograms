@@ -3,7 +3,7 @@
 This repository contains amateur radio helper programs made with the help of AI.
 The following context and background came out of discussions with my amateur radio club, DK0TU. 
 
-AI in amateur radio has the advantage that programs can be made in a fraction of the time previously necessary, and that new software projects are possible with it, for instance in a new programming language. This is a lot of fun, when you get a feeling of what works and what not :-). But programming with AI is also not as easy as many might imagine. There are some pitfalls, which can be avoided using the approaches described below.
+AI in amateur radio has the advantage that programs can be made in a fraction of the time previously necessary, and that new software projects are possible with it, for instance in a new programming language, or hyper specialized software, that otherwise nobody would make. This is a lot of fun, when you get a feeling of what works and what not :-). But programming with AI is also not as easy as many might imagine. There are some pitfalls, which can be avoided using the approaches described below.
 
 Media is trying to please its expected audience or information bubble, or provoke to get attention, which does not necessarily align with the audience's interests. The same is true for AI, it tries to please its user, which is not necessarily in its interest. Hence critical thinking is required, and for the latter, AI literacy on how to use AI collaboratively, as a “Copilot”. Hence, a good knowledge of the programming language generated is still helpful.
 
