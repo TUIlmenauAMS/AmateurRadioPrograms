@@ -18,6 +18,8 @@ Large Language Models, as Natural Language Processing (NLP), can also be used as
 
 In the same way can program compilers and interpreters (like for C and Python) be seen as language processing, just a very strictly formal language, which became more and mor complex as they are developed from early languages like Basic, to increasing sphisticated ones like Pascal, C, and Python as a Very High Level Language. It is only a logical step to the next level, the "Ultra High Level Language" as natural language processing. 
 
+Models have a context and output length limit. This means currently program code blocks to be made at once should have a maximum size that corresponds roughly to it, maybe a few thousand lines of code text or a few hundred kb at once (although that is changing quickly, check your models context and output limit).
+
 For reproducibility and proper credit, the specific AI models used are stated as source references — analogous to citing literature or the programming languages/tools employed (e.g. MATLAB, Python or C).
 
 
