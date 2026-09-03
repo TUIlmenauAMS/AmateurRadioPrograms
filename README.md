@@ -30,6 +30,8 @@ Good references for **AI Coding Tools** are also:
 [DFKI: Generative_AI_in_Software_Engineering_Transforming_the_Software_Development_Process_2025](https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/News/2025/Wissenschaftliche_Exzellenz/Generative_AI_in_Software_Engineering_Transforming_the_Software_Development_Process_2025.pdf) 
 
 This also addresses the technical experimental character of amateur radio :-).
+Practice in AI also provides valuable skills and knowledge for the job market.
+
 
 ## Copyright Issue
 
