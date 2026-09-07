@@ -4,7 +4,7 @@ This repository contains amateur radio helper programs made with the help of AI.
 The following context and background came out of discussions with my amateur radio club, DK0TU. 
 
 AI in amateur radio has the advantage that programs can be made in a fraction of the time previously necessary, and that new software projects are possible with it, for instance in a new programming language, or hyper specialized software, that otherwise nobody would make.
-It also offers the interesting and practical possibility to easily create browser apps, good for instance, for mobile operation.
+It also offers the interesting and practical possibility to easily create browser apps, good for instance for mobile operation.
 
 This is a lot of fun, when you get a feeling of what works and what not :-). But programming with AI is also not as easy as many might imagine. There are some pitfalls, which can be avoided using the approaches described below.
 
