@@ -141,6 +141,13 @@ Execution:
 ```bash
 python speech_to_text_offline.py
 ```
+# Online Speech Translation
+
+The html file [speechtranslator_grok.html](https://github.com/TUIlmenauAMS/MLfAS_Tutorials/blob/main/speechtranslator_grok.html) is a browser app, which records voices from the microphone, recognizes them, and translates their language, for instance from German to English, continuously, and prints it out as text on the screen, and which then can be optionally saved to a file. You can open it using github.io with this link:
+
+ [speechtranslator_grok.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/MLfAS_Tutorials/blob/main/speechtranslator_grok.html)
+
+but it looks better when the html file is downloaded and then opened with the browser. It uses webkitSpeechRecognition.
 
 These Python programs where made with the help of ChatGPT and then refined. The Browser apps and the speech_to_text_offline.py Python program where made with the help of Grok.com.
 
