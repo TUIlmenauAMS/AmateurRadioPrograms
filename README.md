@@ -3,6 +3,8 @@
 This repository contains amateur radio helper programs made with the help of AI.
 The following context and background came out of discussions with my amateur radio club, DK0TU. 
 
+One could argue that AI grew out of Python, from prominent Python libraries like PyTorch and Tensorflow, which where the tools of Deep Neural Network research and development.
+
 AI in amateur radio has the advantage that programs can be made in a fraction of the time previously necessary, and that new software projects are possible with it, for instance in a new programming language, or hyper specialized software, that otherwise nobody would make.
 It also offers the interesting and practical possibility to easily create browser apps, good for instance for mobile operation.
 
