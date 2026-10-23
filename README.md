@@ -74,6 +74,11 @@ Also keep in mind, if this power comes from non-fossile, renewable sources (like
 
 The goal of many countries in the world is to have 100% electricity from renewable sources, between 2035 and 2040 (link: [https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/](https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/) ). Hence anything that runs on electricity instead of fossil fuels can be seen as "2040 ready". 
 
+You can ask "Which proportion of newly installed electricity generation is renewable?" It is already around 90%! 
+See graph “RENEWABLE SHARE OF ANNUAL POWER CAPACITY EXPANSION” in:
+[https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_highlights_2026.pdf](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_highlights_2026.pdf)
+
+
 ## Development
 
 After all this, also keep in mind that the field is still in its infancy and is developing quickly, hence it is worthwile to closely observe the current developments. Try different models and see which works best for an application and at the current time. It can be assumed that AI follows the S-Curve of technology adoption, like micro-processors, the internet, or lately electric vehicles (see ["EV Adoption S-Curves"](https://youtu.be/bTbIrF4YOCY)).
